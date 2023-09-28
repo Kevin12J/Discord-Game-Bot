@@ -2,7 +2,7 @@ import hikari
 import lightbulb
 #.\env\Scripts\activate
 bot=lightbulb.BotApp(
-    token='OTU0NTc4NzM2MTY5MjIyMTQ0.YjVKuQ.LyaIXn-OtyXhBoM1l9OyyfP6p20',
+    token='',
     default_enabled_guilds=(937914803375185970)
 )
 
